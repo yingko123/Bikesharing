@@ -7,16 +7,16 @@ Using CitiBike ride data from August 2019, we conducted an analysis of the bike-
 We summarized our analysis in the following Tableau story visulation book:
 
 **Most rides lasted less than an hour**<br>
-<img src="images/duration.JPG" width = "300px">
+<img src="images/duration.JPG" width = "350px">
 
 **There are more male riders**<br>
-<img src="images/duration-by-gender.JPG" width = "300px">
+<img src="images/duration-by-gender.JPG" width = "350px">
 
 **Demands concentrates around "peak" traffic hours**<br>
-<img src="images/trip-hours.JPG" width = "400px">
+<img src="images/trip-hours.JPG" width = "500px">
 
 **There is also weekend demands**<br>
-<img src="images/daily-trip-hours.JPG" width = "220px">
+<img src="images/daily-trip-hours.JPG" width = "250px">
 
 **Demands between males and females are similar**<br>
 <img src="images/daily-trip-hours-gen.JPG" width = "400px">
